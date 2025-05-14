@@ -25,6 +25,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Tablename registrants & tickets
 
+## สั่ง publish storage
+
+-   php artisan storage:link
+
 ## How to run project
 
--php artisan serve
+-   php artisan serve
